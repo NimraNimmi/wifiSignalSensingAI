@@ -1,0 +1,132 @@
+{"t": "20:10:11.743", "n": 1, "rtt": 1.0, "state": "calibrating", "conf": 0, "std": 0}
+{"t": "20:10:12.063", "n": 2, "rtt": 1.0, "state": "calibrating", "conf": 0, "std": 0.0}
+{"t": "20:10:12.367", "n": 3, "rtt": 4.0, "state": "calibrating", "conf": 0, "std": 1.73}
+{"t": "20:10:12.682", "n": 4, "rtt": 2.0, "state": "calibrating", "conf": 0, "std": 1.41}
+{"t": "20:10:13.033", "n": 5, "rtt": 2.0, "state": "Possible presence", "conf": 24, "std": 1.22}
+{"t": "20:10:13.374", "n": 6, "rtt": 2.0, "state": "Clear / stable", "conf": 68, "std": 1.1}
+{"t": "20:10:13.709", "n": 7, "rtt": 4.0, "state": "Possible presence", "conf": 25, "std": 1.25}
+{"t": "20:10:14.053", "n": 8, "rtt": 3.0, "state": "Clear / stable", "conf": 65, "std": 1.19}
+{"t": "20:10:14.406", "n": 9, "rtt": 9.0, "state": "Possible presence", "conf": 49, "std": 2.47}
+{"t": "20:10:14.717", "n": 10, "rtt": 4.0, "state": "Possible presence", "conf": 46, "std": 2.35}
+{"t": "20:10:15.058", "n": 11, "rtt": 3.0, "state": "Possible presence", "conf": 44, "std": 2.23}
+{"t": "20:10:15.406", "n": 12, "rtt": 3.0, "state": "Possible presence", "conf": 42, "std": 2.12}
+{"t": "20:10:15.714", "n": 13, "rtt": 3.0, "state": "Possible presence", "conf": 40, "std": 2.03}
+{"t": "20:10:16.073", "n": 14, "rtt": 3.0, "state": "Possible presence", "conf": 39, "std": 1.96}
+{"t": "20:10:16.401", "n": 15, "rtt": 1.0, "state": "Possible presence", "conf": 39, "std": 1.96}
+{"t": "20:10:16.722", "n": 16, "rtt": 2.0, "state": "Possible presence", "conf": 38, "std": 1.91}
+{"t": "20:10:17.077", "n": 17, "rtt": 2.0, "state": "Possible presence", "conf": 37, "std": 1.87}
+{"t": "20:10:17.448", "n": 18, "rtt": 3.0, "state": "Possible presence", "conf": 36, "std": 1.81}
+{"t": "20:10:17.808", "n": 19, "rtt": 2.0, "state": "Possible presence", "conf": 35, "std": 1.77}
+{"t": "20:10:18.165", "n": 20, "rtt": 5.0, "state": "Possible presence", "conf": 35, "std": 1.79}
+{"t": "20:10:18.532", "n": 21, "rtt": 1.0, "state": "Possible presence", "conf": 35, "std": 1.79}
+{"t": "20:10:18.895", "n": 22, "rtt": 3.0, "state": "Possible presence", "conf": 34, "std": 1.73}
+{"t": "20:10:19.264", "n": 23, "rtt": 3.0, "state": "Possible presence", "conf": 34, "std": 1.72}
+{"t": "20:10:19.636", "n": 24, "rtt": 3.0, "state": "Possible presence", "conf": 34, "std": 1.7}
+{"t": "20:10:20.026", "n": 25, "rtt": 3.0, "state": "Possible presence", "conf": 33, "std": 1.68}
+{"t": "20:10:20.381", "n": 26, "rtt": 3.0, "state": "Possible presence", "conf": 33, "std": 1.66}
+{"t": "20:10:20.735", "n": 27, "rtt": 4.0, "state": "Possible presence", "conf": 33, "std": 1.66}
+{"t": "20:10:21.058", "n": 28, "rtt": 1.0, "state": "Possible presence", "conf": 34, "std": 1.73}
+{"t": "20:10:21.423", "n": 29, "rtt": 3.0, "state": "Clear / stable", "conf": 70, "std": 1.02}
+{"t": "20:10:21.787", "n": 30, "rtt": 1.0, "state": "Clear / stable", "conf": 69, "std": 1.05}
+{"t": "20:10:22.141", "n": 31, "rtt": 3.0, "state": "Clear / stable", "conf": 69, "std": 1.05}
+{"t": "20:10:22.502", "n": 32, "rtt": 1.0, "state": "Clear / stable", "conf": 67, "std": 1.1}
+{"t": "20:10:22.883", "n": 33, "rtt": 5.0, "state": "Possible presence", "conf": 24, "std": 1.23}
+{"t": "20:10:23.183", "n": 34, "rtt": 1.0, "state": "Possible presence", "conf": 25, "std": 1.28}
+{"t": "20:10:23.551", "n": 35, "rtt": 3.0, "state": "Possible presence", "conf": 24, "std": 1.23}
+{"t": "20:10:23.912", "n": 36, "rtt": 4.0, "state": "Possible presence", "conf": 25, "std": 1.26}
+{"t": "20:10:24.284", "n": 37, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.25}
+{"t": "20:10:24.645", "n": 38, "rtt": 1.0, "state": "Possible presence", "conf": 26, "std": 1.31}
+{"t": "20:10:24.994", "n": 39, "rtt": 1.0, "state": "Possible presence", "conf": 27, "std": 1.35}
+{"t": "20:10:25.313", "n": 40, "rtt": 2.0, "state": "Possible presence", "conf": 24, "std": 1.23}
+{"t": "20:10:25.674", "n": 41, "rtt": 1.0, "state": "Possible presence", "conf": 24, "std": 1.23}
+{"t": "20:10:26.038", "n": 42, "rtt": 2.0, "state": "Possible presence", "conf": 24, "std": 1.23}
+{"t": "20:10:26.409", "n": 43, "rtt": 3.0, "state": "Possible presence", "conf": 24, "std": 1.23}
+{"t": "20:10:26.746", "n": 44, "rtt": 5.0, "state": "Possible presence", "conf": 27, "std": 1.36}
+{"t": "20:10:27.069", "n": 45, "rtt": 7.0, "state": "Possible presence", "conf": 33, "std": 1.69}
+{"t": "20:10:27.431", "n": 46, "rtt": 3.0, "state": "Possible presence", "conf": 33, "std": 1.69}
+{"t": "20:10:27.790", "n": 47, "rtt": 4.0, "state": "Possible presence", "conf": 33, "std": 1.69}
+{"t": "20:10:28.156", "n": 48, "rtt": 1.0, "state": "Possible presence", "conf": 33, "std": 1.69}
+{"t": "20:10:28.532", "n": 49, "rtt": 3.0, "state": "Possible presence", "conf": 33, "std": 1.69}
+{"t": "20:10:28.887", "n": 50, "rtt": 3.0, "state": "Possible presence", "conf": 32, "std": 1.64}
+{"t": "20:10:29.247", "n": 51, "rtt": 3.0, "state": "Possible presence", "conf": 32, "std": 1.64}
+{"t": "20:10:29.614", "n": 52, "rtt": 2.0, "state": "Possible presence", "conf": 31, "std": 1.6}
+{"t": "20:10:29.973", "n": 53, "rtt": 3.0, "state": "Possible presence", "conf": 30, "std": 1.52}
+{"t": "20:10:30.351", "n": 54, "rtt": 6.0, "state": "Possible presence", "conf": 32, "std": 1.62}
+{"t": "20:10:30.715", "n": 55, "rtt": 3.0, "state": "Possible presence", "conf": 32, "std": 1.62}
+{"t": "20:10:31.080", "n": 56, "rtt": 6.0, "state": "Possible presence", "conf": 34, "std": 1.74}
+{"t": "20:10:31.438", "n": 57, "rtt": 3.0, "state": "Possible presence", "conf": 34, "std": 1.74}
+{"t": "20:10:31.791", "n": 58, "rtt": 2.0, "state": "Possible presence", "conf": 33, "std": 1.69}
+{"t": "20:10:32.148", "n": 59, "rtt": 3.0, "state": "Possible presence", "conf": 32, "std": 1.62}
+{"t": "20:10:32.508", "n": 60, "rtt": 3.0, "state": "Possible presence", "conf": 31, "std": 1.59}
+{"t": "20:10:32.863", "n": 61, "rtt": 1.0, "state": "Possible presence", "conf": 31, "std": 1.59}
+{"t": "20:10:33.214", "n": 62, "rtt": 3.0, "state": "Possible presence", "conf": 31, "std": 1.57}
+{"t": "20:10:33.579", "n": 63, "rtt": 3.0, "state": "Possible presence", "conf": 31, "std": 1.57}
+{"t": "20:10:33.937", "n": 64, "rtt": 3.0, "state": "Possible presence", "conf": 30, "std": 1.52}
+{"t": "20:10:34.295", "n": 65, "rtt": 1.0, "state": "Possible presence", "conf": 26, "std": 1.32}
+{"t": "20:10:34.648", "n": 66, "rtt": 1.0, "state": "Possible presence", "conf": 27, "std": 1.39}
+{"t": "20:10:35.007", "n": 67, "rtt": 3.0, "state": "Possible presence", "conf": 27, "std": 1.36}
+{"t": "20:10:35.365", "n": 68, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.29}
+{"t": "20:10:35.720", "n": 69, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.29}
+{"t": "20:10:36.072", "n": 70, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.29}
+{"t": "20:10:36.427", "n": 71, "rtt": 1.0, "state": "Possible presence", "conf": 27, "std": 1.36}
+{"t": "20:10:36.781", "n": 72, "rtt": 3.0, "state": "Possible presence", "conf": 26, "std": 1.35}
+{"t": "20:10:37.135", "n": 73, "rtt": 5.0, "state": "Possible presence", "conf": 28, "std": 1.43}
+{"t": "20:10:37.493", "n": 74, "rtt": 3.0, "state": "Possible presence", "conf": 24, "std": 1.24}
+{"t": "20:10:37.859", "n": 75, "rtt": 3.0, "state": "Possible presence", "conf": 24, "std": 1.24}
+{"t": "20:10:38.215", "n": 76, "rtt": 1.0, "state": "Clear / stable", "conf": 69, "std": 1.05}
+{"t": "20:10:38.576", "n": 77, "rtt": 3.0, "state": "Clear / stable", "conf": 69, "std": 1.05}
+{"t": "20:10:38.941", "n": 78, "rtt": 2.0, "state": "Clear / stable", "conf": 69, "std": 1.05}
+{"t": "20:10:39.317", "n": 79, "rtt": 3.0, "state": "Clear / stable", "conf": 69, "std": 1.05}
+{"t": "20:10:39.677", "n": 80, "rtt": 2.0, "state": "Clear / stable", "conf": 69, "std": 1.05}
+{"t": "20:10:40.036", "n": 81, "rtt": 3.0, "state": "Clear / stable", "conf": 71, "std": 0.99}
+{"t": "20:10:40.395", "n": 82, "rtt": 3.0, "state": "Clear / stable", "conf": 71, "std": 0.99}
+{"t": "20:10:40.763", "n": 83, "rtt": 3.0, "state": "Clear / stable", "conf": 71, "std": 0.99}
+{"t": "20:10:41.125", "n": 84, "rtt": 3.0, "state": "Clear / stable", "conf": 71, "std": 0.99}
+{"t": "20:10:41.481", "n": 85, "rtt": 1.0, "state": "Clear / stable", "conf": 71, "std": 0.99}
+{"t": "20:10:41.838", "n": 86, "rtt": 1.0, "state": "Clear / stable", "conf": 71, "std": 0.99}
+{"t": "20:10:42.194", "n": 87, "rtt": 3.0, "state": "Clear / stable", "conf": 71, "std": 0.99}
+{"t": "20:10:42.547", "n": 88, "rtt": 3.0, "state": "Clear / stable", "conf": 71, "std": 0.99}
+{"t": "20:10:43.066", "n": 89, "rtt": 2.0, "state": "Clear / stable", "conf": 71, "std": 1.0}
+{"t": "20:10:43.422", "n": 90, "rtt": 2.0, "state": "Clear / stable", "conf": 70, "std": 1.0}
+{"t": "20:10:43.781", "n": 91, "rtt": 2.0, "state": "Clear / stable", "conf": 72, "std": 0.94}
+{"t": "20:10:44.139", "n": 92, "rtt": 3.0, "state": "Clear / stable", "conf": 72, "std": 0.94}
+{"t": "20:10:44.491", "n": 93, "rtt": 1.0, "state": "Clear / stable", "conf": 76, "std": 0.81}
+{"t": "20:10:44.849", "n": 94, "rtt": 1.0, "state": "Clear / stable", "conf": 75, "std": 0.85}
+{"t": "20:10:45.212", "n": 95, "rtt": 3.0, "state": "Clear / stable", "conf": 75, "std": 0.85}
+{"t": "20:10:45.572", "n": 96, "rtt": 1.0, "state": "Clear / stable", "conf": 75, "std": 0.85}
+{"t": "20:10:45.936", "n": 97, "rtt": 3.0, "state": "Clear / stable", "conf": 75, "std": 0.85}
+{"t": "20:10:46.301", "n": 98, "rtt": 1.0, "state": "Clear / stable", "conf": 74, "std": 0.89}
+{"t": "20:10:46.673", "n": 99, "rtt": 3.0, "state": "Clear / stable", "conf": 74, "std": 0.89}
+{"t": "20:10:47.032", "n": 100, "rtt": 2.0, "state": "Clear / stable", "conf": 74, "std": 0.89}
+{"t": "20:10:47.387", "n": 101, "rtt": 2.0, "state": "Clear / stable", "conf": 74, "std": 0.88}
+{"t": "20:10:47.750", "n": 102, "rtt": 4.0, "state": "Clear / stable", "conf": 72, "std": 0.95}
+{"t": "20:10:48.111", "n": 103, "rtt": 3.0, "state": "Clear / stable", "conf": 72, "std": 0.95}
+{"t": "20:10:48.471", "n": 104, "rtt": 3.0, "state": "Clear / stable", "conf": 72, "std": 0.95}
+{"t": "20:10:48.828", "n": 105, "rtt": 2.0, "state": "Clear / stable", "conf": 73, "std": 0.91}
+{"t": "20:10:49.181", "n": 106, "rtt": 1.0, "state": "Clear / stable", "conf": 73, "std": 0.91}
+{"t": "20:10:49.539", "n": 107, "rtt": 3.0, "state": "Clear / stable", "conf": 73, "std": 0.91}
+{"t": "20:10:49.898", "n": 108, "rtt": 7.0, "state": "Possible presence", "conf": 27, "std": 1.39}
+{"t": "20:10:50.271", "n": 109, "rtt": 3.0, "state": "Possible presence", "conf": 27, "std": 1.4}
+{"t": "20:10:50.624", "n": 110, "rtt": 3.0, "state": "Possible presence", "conf": 27, "std": 1.39}
+{"t": "20:10:50.981", "n": 111, "rtt": 3.0, "state": "Possible presence", "conf": 27, "std": 1.39}
+{"t": "20:10:51.315", "n": 112, "rtt": 1.0, "state": "Possible presence", "conf": 28, "std": 1.43}
+{"t": "20:10:51.622", "n": 113, "rtt": 3.0, "state": "Possible presence", "conf": 27, "std": 1.39}
+{"t": "20:10:51.984", "n": 114, "rtt": 3.0, "state": "Possible presence", "conf": 26, "std": 1.34}
+{"t": "20:10:52.344", "n": 115, "rtt": 3.0, "state": "Possible presence", "conf": 26, "std": 1.34}
+{"t": "20:10:52.694", "n": 116, "rtt": 2.0, "state": "Possible presence", "conf": 25, "std": 1.29}
+{"t": "20:10:53.002", "n": 117, "rtt": 1.0, "state": "Possible presence", "conf": 26, "std": 1.35}
+{"t": "20:10:53.373", "n": 118, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.29}
+{"t": "20:10:53.732", "n": 119, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.29}
+{"t": "20:10:54.107", "n": 120, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.28}
+{"t": "20:10:54.468", "n": 121, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.27}
+{"t": "20:10:54.828", "n": 122, "rtt": 2.0, "state": "Possible presence", "conf": 25, "std": 1.25}
+{"t": "20:10:55.184", "n": 123, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.25}
+{"t": "20:10:55.545", "n": 124, "rtt": 2.0, "state": "Possible presence", "conf": 25, "std": 1.26}
+{"t": "20:10:55.920", "n": 125, "rtt": 3.0, "state": "Possible presence", "conf": 25, "std": 1.25}
+{"t": "20:10:56.275", "n": 126, "rtt": 1.0, "state": "Possible presence", "conf": 25, "std": 1.25}
+{"t": "20:10:56.639", "n": 127, "rtt": 2.0, "state": "Possible presence", "conf": 25, "std": 1.26}
+{"t": "20:10:56.997", "n": 128, "rtt": 4.0, "state": "Clear / stable", "conf": 76, "std": 0.83}
+{"t": "20:10:57.439", "n": 129, "rtt": 3.0, "state": "Clear / stable", "conf": 76, "std": 0.83}
+{"t": "20:10:57.809", "n": 130, "rtt": 3.0, "state": "Clear / stable", "conf": 76, "std": 0.83}
+{"t": "20:10:58.193", "n": 131, "rtt": 3.0, "state": "Clear / stable", "conf": 76, "std": 0.83}
+{"t": "20:10:58.560", "n": 132, "rtt": 3.0, "state": "Clear / stable", "conf": 78, "std": 0.75}
